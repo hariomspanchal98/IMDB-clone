@@ -221,6 +221,5 @@
     localStorage.setItem("movieName", target.dataset.id);
   }
 
-  // Event listner on whole document
   document.addEventListener("click", handleClickListner);
 })();
