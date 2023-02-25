@@ -197,7 +197,6 @@
     showEmptyText();
   }
 
-  // Handles click events
   async function handleClickListner(e) {
     const target = e.target;
 
